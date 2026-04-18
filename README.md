@@ -2,6 +2,8 @@
 
 A comprehensive MDM system with RBAC, data quality assurance, and automated reporting.
 
+![Screenshot](./Screenshot_18-4-2026_111613_localhost.jpeg)
+
 ## Features
 
 - **CRUD Operations**: Create, read, update, delete master data
